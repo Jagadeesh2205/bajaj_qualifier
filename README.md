@@ -10,9 +10,9 @@ This Spring Boot application automatically executes the Bajaj Finserv Health hir
 
 ## Student Details
 
-- **Name**: Tanguturi Venkata Thanuj
-- **Registration Number**: 22bce20003
-- **Email**: venkata.22bce20003@vitapstudent.ac.in
+- **Name**: Arigala Jagadeesh
+- **Registration Number**: 22bce9487
+- **Email**: jagadeesh.22bce9487@vitapstudent.ac.in
 
 ## SQL Solution (Question 1)
 
@@ -52,3 +52,4 @@ LIMIT 1;
 ## JAR Download
 
 The executable JAR file is available in this repository: `webhook-sql-solution-1.0.0.jar`
+
